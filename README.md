@@ -1,3 +1,3 @@
 # Json-file-traverse
 
-遍历json key 和value
+Copy  files in to one folder，and input simple file name ,name of the file need to check
