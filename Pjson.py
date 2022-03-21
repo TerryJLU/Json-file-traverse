@@ -16,7 +16,7 @@ def readSimpleJsonFile():
 
 
 def readCheckJsonFile():
-    check_fname=input("Please input json file name that you want to check:")
+    check_fname=input("Please input json file name , the file that you want to check:")
     with open(os.path.join(BASE_DIR, check_fname),'r',encoding='utf8') as check_content:
         # Check if the json file data is json format
         try:
